@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>3D Sanal Tur</title>
+</head>
+<body style="margin:0;">
+    <iframe src="https://app.immoviewer.com/portal/tour/3108823" width="100%" height="100%" style="position:fixed; top:0; left:0; width:100%; height:100%; border:none;"></iframe>
+</body>
+</html>
